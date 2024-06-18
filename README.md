@@ -9,7 +9,7 @@ I'm Saliniyan, and I'm passionate about Full Stack development and Machine Learn
 - Machine Learning Projects
 
 ### 💻 LeetCode Profile:
-I enjoy solving coding challenges on LeetCode. Check out my profile [here](https://leetcode.com/saliniyan/) to see some of my solutions!
+I enjoy solving coding challenges on LeetCode. Check out my profile [here](https://leetcode.com/saliniyan_p/) to see some of my solutions!
 
 ### 📊 GitHub Stats:
 ![Saliniyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saliniyan&show_icons=true&theme=radical)
