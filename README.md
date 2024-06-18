@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saliniyanp02@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=saliniyan&style=flat-square&color=blue&abbreviated=true)
 
 <!---
 saliniyan/saliniyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
