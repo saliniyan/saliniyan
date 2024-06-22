@@ -16,4 +16,4 @@ I'm Saliniyan.
 
 ## Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/saliniyan-p
+- [LinkedIn](https://www.linkedin.com/in/saliniyan-p)
