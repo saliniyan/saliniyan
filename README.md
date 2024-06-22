@@ -1,3 +1,1 @@
-![Metrics](/metrics.plugin.isocalendar.svg)
-
-![Leetcode](/metrics.plugin.leetcode.svg)
+![Metrics](/github-metrics.svg), <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
