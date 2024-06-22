@@ -17,3 +17,5 @@ I'm Saliniyan.
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saliniyan-p)
+
+![](https://komarev.com/ghpvc/?username=saliniyan&style=flat-square&color=blue&abbreviated=true)
