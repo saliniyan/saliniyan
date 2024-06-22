@@ -18,4 +18,4 @@ I'm Saliniyan.
 
 - [LinkedIn](https://www.linkedin.com/in/saliniyan-p)
 
-![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=flat-square&color=blue&label=Profile+Views&logo=github&logoColor=white&labelColor=1A1A1A&color=586069)
+![](https://komarev.com/ghpvc/?username=saliniyan&style=flat-square&c&color=green&abbreviated=true)
