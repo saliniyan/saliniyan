@@ -9,9 +9,10 @@ I'm Saliniyan.
 - 📫 How to reach me: saliniyanp02@gmail.com
 
 
-## GitHub Stats
+## Status
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saliniyan&show_icons=true&theme=radical)
+<img src="/github-metrics.svg" alt="Metrics" >
+<img src="/metrics.plugin.isocalendar.svg" alt="Calender" >
 
 ## Connect with Me
 
