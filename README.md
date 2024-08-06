@@ -22,9 +22,10 @@ I'm Saliniyan.
 </div>
 
 ### IDE and Tools I Use
+<div>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon">
-
+</div>
 ## Status
 
 <img src="/github-metrics.svg" alt="Metrics" >
