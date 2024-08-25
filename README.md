@@ -29,8 +29,11 @@ I'm Saliniyan.
 
 ### My HackerRank Profile
 <div>
+<a href="https://www.hackerrank.com/saliniyanp02" target="_blank">
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo"/>
+</a>
 </div>
+
 
 ## Status
 
