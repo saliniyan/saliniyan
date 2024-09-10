@@ -19,11 +19,11 @@ I'm Saliniyan.
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</div>
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-</div>
 
 ### IDE and Tools I Use
 <div>
