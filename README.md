@@ -12,16 +12,17 @@ I'm Saliniyan.
 
 ### I code in
 <div>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas Logo" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras Logo" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI Logo" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white") 
+<img height="50" width="50" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white")
+<img height="50" width="50" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white")
+<img height="50" width="50" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black")
 </div>
 
 ### IDE and Tools I Use
