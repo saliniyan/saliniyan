@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_isocalendar: yes
+          plugin_leetcode: yes
           plugin_leetcode_sections: skills, recent
           plugin_leetcode_user: saliniyan
           config_timezone: Asia/Kolkata  # Set to your timezone
