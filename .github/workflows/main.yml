@@ -24,6 +24,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: saliniyan
