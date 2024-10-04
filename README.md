@@ -47,5 +47,7 @@ I'm Saliniyan.
 <img src="/github-metrics.svg" alt="Metrics" >
 <img src="/metrics.plugin.isocalendar.svg" alt="Calender" >
 
+# LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/saliniyan?theme=auto&font=baloo&extension=null)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
