@@ -17,8 +17,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_sections: skills, recent
+          plugin_isocalendar: yes
+          plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: saliniyan
-          config_timezone: Asia/Kolkata  # Set to your timezone
