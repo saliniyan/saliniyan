@@ -27,20 +27,12 @@ I'm Saliniyan.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
-### IDE and Tools I Use
-<div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Icon">
-</div>
-
 ### My HackerRank Profile
 <div>
 <a href="https://www.hackerrank.com/saliniyanp02" target="_blank">
 <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank Logo"/>
 </a>
 </div>
-
 
 ## Status
 
