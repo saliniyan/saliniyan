@@ -38,7 +38,5 @@ I'm Saliniyan.
 ![LeetCode Stats](https://leetcode.card.workers.dev/saliniyan?theme=auto&font=baloo&extension=null)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saliniyan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/saliniyan?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=saliniyan)
-![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
 
+![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
