@@ -45,7 +45,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.39
+                            Average per day at ~1.38
                         </div>
                     </section>
                 </div>
@@ -1033,6 +1033,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1053,14 +1058,14 @@
                     </h2>
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x70</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x39</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x40</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x35</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x28</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x30</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x21</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x19</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x18</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x13</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x11</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x12</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Recursion <span class="count">x10</span></div>
                     </div>
                 </section>
@@ -1076,8 +1081,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Rotate List</div>
-                            <div class="date">3 Oct 2024</div>
+                            <div class="title">Excel Sheet Column Title</div>
+                            <div class="date">7 Oct 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -1085,8 +1090,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Two Sum</div>
-                            <div class="date">2 Oct 2024</div>
+                            <div class="title">Reverse Linked List II</div>
+                            <div class="date">7 Oct 2024</div>
                         </div>
                     </div>
                 </section>
