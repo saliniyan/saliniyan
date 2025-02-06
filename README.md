@@ -32,6 +32,4 @@
 
 <img src="/metrics.plugin.isocalendar.svg" alt="Calender" >
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saliniyan&show_icons=true&theme=radical)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
