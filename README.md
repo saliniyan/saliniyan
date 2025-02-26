@@ -32,6 +32,6 @@
 
 <img src="/metrics.plugin.isocalendar.svg" alt="Calender" >
 
-![Leetcode status](https://leetcard.jacoblin.cool/saliniyan?theme=light,unicorn)
+![Leetcode status](https://leetcard.jacoblin.cool/saliniyan?theme=dark,unicorn)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saliniyan&style=for-the-badge&color=blueviolet&label=Visitors&labelColor=1A1A1A&logoColor=white&labelPad=10&logoPad=5&borderColor=red&borderWidth=2&shadow=5)
