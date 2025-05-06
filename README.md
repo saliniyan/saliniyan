@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-  <img height="40" width="40" src="[https://img.icons8.com/color/48/fedora.png](https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000)" alt="Fedora" />
+  <img height="40" width="40" src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000" alt="Fedora" />
 </div>
 
 ### My HackerRank Profile
