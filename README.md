@@ -31,7 +31,6 @@
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
 </div>
 
 ### My HackerRank Profile
