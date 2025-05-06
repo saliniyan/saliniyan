@@ -10,16 +10,31 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Logo"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### I work with:
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv"/>
+</a>
+
+</div
+
+### I use: 
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/fedora.png" alt="Fedora" />
+  <img height="40" width="40" src="https://img.icons8.com/color/48/gnome.png" alt="GNOME" />
+</div>
 
 ### My HackerRank Profile
 <div>
