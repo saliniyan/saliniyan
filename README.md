@@ -18,10 +18,8 @@
 ### I work with:
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" />
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" />
   <img src="https://skillicons.dev/icons?i=flask" />
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv"/>
+  <img src="https://skillicons.dev/icons?i=sklearn"/>
 </a>
 
 </div>
