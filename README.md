@@ -5,7 +5,7 @@
 <br />
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:saliniyanp02@gmail.com)
 <br />
-[<img src="https://img.shields.io/badge/Portfolio-%20-blue?style=for-the-badge&labelColor=white&logo=About.me&logoColor=blue" />](https://saliniyan.tech)
+[<img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=About.me&logoColor=white" />](https://saliniyan.tech)
 
 ### I code in
 
